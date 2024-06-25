@@ -1,5 +1,7 @@
 # French and english documentation about the project and the box
 
+Note this project is deprecated and has been replaced by the [Flutter version](https://github.com/Orange-OpenSource/BaahBox-Flutter-android).
+
 Français | English
 ------------- | -------------
 [![BaahBoxPix](https://github.com/Orange-OpenSource/BaahBox-Arduino/blob/dev/documentation/img/fr.jpg)](https://github.com/Orange-OpenSource/BaahBox-Arduino/blob/dev/documentation/fr/README.md) | [![BaahBoxPix](https://github.com/Orange-OpenSource/BaahBox-Arduino/blob/dev/documentation/img/en.jpg)](https://github.com/Orange-OpenSource/BaahBox-Arduino/blob/dev/documentation/en/README.md)| Content 
